@@ -1,8 +1,8 @@
 # DS_ML_1
 
 <p>
- 1.	What are the three stages to build the hypotheses or model in machine learning?<br/>
-Ans.:-  The 3 stages of building hypothesis in machine learning are as follows-
+ **1.	What are the three stages to build the hypotheses or model in machine learning?**<br/>
+Ans.:-  The 3 stages of building hypothesis in machine learning are as follows-<br/>
 a) Model building,<br/>
 b) Model testing,<br/>
 c) Applying the model.<br/>
