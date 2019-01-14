@@ -1,10 +1,10 @@
 # DS_ML_1
 
 <p>
-  1. Introduction
-This assignment will help you to consolidate the concepts learnt in the session.
+  1. Introduction:-
+      This assignment will help you to consolidate the concepts learnt in the session.
 
-2. Problem Statement
+2. Problem Statement:-
 
 1. What are the three stages to build the hypotheses or model in machine learning?
 2. What is the standard approach to supervised learning?
@@ -12,5 +12,7 @@ This assignment will help you to consolidate the concepts learnt in the session.
 4. What is the general principle of an ensemble method and what is bagging and
 boosting in ensemble method?
 5. How can you avoid overfitting ?
+
+     I have answered all the questions and docs file of the answers has been attached.
 
   </p>
