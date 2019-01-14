@@ -1,9 +1,9 @@
 # DS_ML_1
 
 <p>
-  1.	What are the three stages to build the hypotheses or model in machine learning?
+ 1.	What are the three stages to build the hypotheses or model in machine learning?
 Ans.:-  The 3 stages of building hypothesis in machine learning are as follows-
- a) Model building,
+a) Model building,
 b) Model testing,
 c) Applying the model.
 
@@ -20,12 +20,12 @@ Ans.:- The general principle of an ensemble method is to combine the predictions
 
 Boosting :- Boosting method are used sequentially to reduce the bias of the combined model. Boosting can reduce errors by reducing the variance term.
 
-      5.  How can you avoid overfitting ?
-     Ans.:- Following are the commonly used methodologies  to avoid overfitting:-
-I.	Cross-Validation : Cross Validation in its simplest form is a one round validation, where we leave one sample as in-time validation and rest for training the model. But for keeping lower variance a higher fold cross validation is preferred.
-II.	Early Stopping : Early stopping rules provide guidance as to how many iterations can be run before the learner begins to over-fit.
-III.	Pruning : Pruning is used extensively while building CART models. It simply removes the nodes which add little predictive power for the problem in hand.
-IV.	Regularization : This is the technique we are going to discuss in more details. Simply put, it introduces a cost term for bringing in more features with the objective function. Hence, it tries to push the coefficients for many variables to zero and hence reduce cost term.
+ 5.  How can you avoid overfitting ?
+ Ans.:- Following are the commonly used methodologies  to avoid overfitting:-
+ I.	Cross-Validation : Cross Validation in its simplest form is a one round validation, where we leave one sample as in-time validation and rest for training the model. But for keeping lower variance a higher fold cross validation is preferred.
+ II.	Early Stopping : Early stopping rules provide guidance as to how many iterations can be run before the learner begins to over-fit.
+ III.	Pruning : Pruning is used extensively while building CART models. It simply removes the nodes which add little predictive power for the problem in hand.
+ IV.	Regularization : This is the technique we are going to discuss in more details. Simply put, it introduces a cost term for bringing in more features with the objective function. Hence, it tries to push the coefficients for many variables to zero and hence reduce cost term.
 
 
 
